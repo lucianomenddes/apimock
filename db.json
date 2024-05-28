@@ -1,0 +1,150 @@
+{
+    "apimacall": [
+         
+            {   "id": 1,
+                "data": {
+                    "dataSummarizer": "João Silva está com problemas de conexão com a rede de internet",
+                    "dataClassic": "Informações",
+                    "dataQueue": "Olá, equipe de suporte técnico. Meu nome é João Silva e estou ligando porque estou enfrentando problemas graves com minha conexão à internet. É uma situação frustrante, pois tenho tentado trabalhar em casa, mas a lentidão da internet está tornando isso praticamente impossível. Moro na Rua das Flores, número 123, e nunca tive problemas tão sérios antes. A velocidade está tão lenta que até mesmo tarefas simples, como carregar uma página da web ou enviar um e-mail, estão levando uma eternidade. Já reiniciei o roteador algumas vezes, mas o problema persiste. Estou realmente preocupado com isso, pois afeta diretamente minha capacidade de trabalhar e realizar minhas atividades diárias. Além disso, tenho uma reunião importante agendada para daqui a algumas horas, e estou preocupado se conseguirei participar sem problemas de conexão. É frustrante lidar com isso, especialmente considerando que pago por um serviço de internet que deveria ser confiável erápido. Será que vocês podem me ajudar a resolver esse problema? Fico muito grato desde já pela atenção e assistência. Estou realmente esperançoso de que possamos encontrar uma solução rápida para essa situação, pois minha produtividade e bem-estar dependem muito disso. Muito obrigado.",
+                    "dataFinder": {
+                        "cpf": "999.999.999-99",
+                        "nome": "João Silva",
+                        "uf": "RJ",
+                        "municipio": "Rio de Janeiro",
+                        "endereco": "Rua das Flores, 123"
+                    },
+                    "dataRetriever": {
+                        "material1": {
+                            "titulo": "Queda de Internet",
+                            "corpo": "Body of Material 1. Mauris nec faucibus felis, sed sodales libero. Integer ultrices est quis vestibulum malesuada.",
+                            "score": 98.9
+                        },
+                        "material2": {
+                            "titulo": "Cabo de Rede",
+                            "corpo": "Body of Material 2. Aliquam non erat in metus posuere fermentum vel a elit. Sed condimentum tempus felis vitae mattis.",
+                            "score": 75.8
+                        },
+                        "material3": {
+                            "titulo": "TCP-IP",
+                            "corpo": "Body of Material 3. Ut vel augue euismod, pharetra tortor eu, ultricies magna. Nullam efficitur lectus ac libero malesuada aliquet.",
+                            "score": 36.7
+                        }
+                    },
+                    "dataAsk": "What question do you have about the data?"
+                },
+                "metadata": {
+                    "caller_num": "+5511987654321",
+                    "timestamp": 1633021440
+                }
+            },
+            {   "id": 2,
+                "data": {
+                    "dataSummarizer": "Jordane Silva está com problemas de falta de energia",
+                    "dataClassic": "fornecimento de energia",
+                    "dataQueue": "Olá, equipe de suporte técnico. Meu nome é João Silva e estou ligando porque estou enfrentando problemas graves com minha conexão à internet. É uma situação frustrante, pois tenho tentado trabalhar em casa, mas a lentidão da internet está tornando isso praticamente impossível. Moro na Rua das Flores, número 123, e nunca tive problemas tão sérios antes. A velocidade está tão lenta que até mesmo tarefas simples, como carregar uma página da web ou enviar um e-mail, estão levando uma eternidade. Já reiniciei o roteador algumas vezes, mas o problema persiste. Estou realmente preocupado com isso, pois afeta diretamente minha capacidade de trabalhar e realizar minhas atividades diárias. Além disso, tenho uma reunião importante agendada para daqui a algumas horas, e estou preocupado se conseguirei participar sem problemas de conexão. É frustrante lidar com isso, especialmente considerando que pago por um serviço de internet que deveria ser confiável erápido. Será que vocês podem me ajudar a resolver esse problema? Fico muito grato desde já pela atenção e assistência. Estou realmente esperançoso de que possamos encontrar uma solução rápida para essa situação, pois minha produtividade e bem-estar dependem muito disso. Muito obrigado.",
+                    "dataFinder": {
+                        "cpf": "999.999.999-99",
+                        "nome": "Jose Silva",
+                        "uf": "GO",
+                        "municipio": "Aparecida de Goiânia",
+                        "endereco": "Rua das Rosa 321"
+                    },
+                    "dataRetriever": {
+                        "material1": {
+                            "titulo": "energia em Queda",
+                            "corpo": "Body of Material 1. Mauris nec faucibus felis, sed sodales libero. Integer ultrices est quis vestibulum malesuada.",
+                            "score": 98.9
+                        },
+                        "material2": {
+                            "titulo": "Cabo de Rede",
+                            "corpo": "Body of Material 2. Aliquam non erat in metus posuere fermentum vel a elit. Sed condimentum tempus felis vitae mattis.",
+                            "score": 75.8
+                        },
+                        "material3": {
+                            "titulo": "TCP-IP",
+                            "corpo": "Body of Material 3. Ut vel augue euismod, pharetra tortor eu, ultricies magna. Nullam efficitur lectus ac libero malesuada aliquet.",
+                            "score": 36.7
+                        }
+                    },
+                    "dataAsk": "What question do you have about the data?"
+                },
+                "metadata": {
+                    "caller_num": "+5511987654321",
+                    "timestamp": 1633021440
+                }
+            },
+            {   "id": 2,
+                "data": {
+                    "dataSummarizer": "Joel Silva está com problemas no bastecimento de água",
+                    "dataClassic": "falta de água",
+                    "dataQueue": "Olá, equipe de suporte técnico. Meu nome é João Silva e estou ligando porque estou enfrentando problemas graves com minha conexão à internet. É uma situação frustrante, pois tenho tentado trabalhar em casa, mas a lentidão da internet está tornando isso praticamente impossível. Moro na Rua das Flores, número 123, e nunca tive problemas tão sérios antes. A velocidade está tão lenta que até mesmo tarefas simples, como carregar uma página da web ou enviar um e-mail, estão levando uma eternidade. Já reiniciei o roteador algumas vezes, mas o problema persiste. Estou realmente preocupado com isso, pois afeta diretamente minha capacidade de trabalhar e realizar minhas atividades diárias. Além disso, tenho uma reunião importante agendada para daqui a algumas horas, e estou preocupado se conseguirei participar sem problemas de conexão. É frustrante lidar com isso, especialmente considerando que pago por um serviço de internet que deveria ser confiável erápido. Será que vocês podem me ajudar a resolver esse problema? Fico muito grato desde já pela atenção e assistência. Estou realmente esperançoso de que possamos encontrar uma solução rápida para essa situação, pois minha produtividade e bem-estar dependem muito disso. Muito obrigado.",
+                    "dataFinder": {
+                        "cpf": "999.999.999-99",
+                        "nome": "Joel Silva",
+                        "uf": "RJ",
+                        "municipio": "Rio de Janeiro",
+                        "endereco": "Rua das Flores, 123"
+                    },
+                    "dataRetriever": {
+                        "material1": {
+                            "titulo": "Queda de Internet",
+                            "corpo": "Body of Material 1. Mauris nec faucibus felis, sed sodales libero. Integer ultrices est quis vestibulum malesuada.",
+                            "score": 98.9
+                        },
+                        "material2": {
+                            "titulo": "Cabo de Rede",
+                            "corpo": "Body of Material 2. Aliquam non erat in metus posuere fermentum vel a elit. Sed condimentum tempus felis vitae mattis.",
+                            "score": 75.8
+                        },
+                        "material3": {
+                            "titulo": "TCP-IP",
+                            "corpo": "Body of Material 3. Ut vel augue euismod, pharetra tortor eu, ultricies magna. Nullam efficitur lectus ac libero malesuada aliquet.",
+                            "score": 36.7
+                        }
+                    },
+                    "dataAsk": "What question do you have about the data?"
+                },
+                "metadata": {
+                    "caller_num": "+5511987654321",
+                    "timestamp": 1633021440
+                }
+            },
+            {   "id": 3,
+                "data": {
+                    "dataSummarizer": "Joana  Silva está com problemas de conexão com a rede de internet",
+                    "dataClassic": "Informações",
+                    "dataQueue": "Olá, equipe de suporte técnico. Meu nome é João Silva e estou ligando porque estou enfrentando problemas graves com minha conexão à internet. É uma situação frustrante, pois tenho tentado trabalhar em casa, mas a lentidão da internet está tornando isso praticamente impossível. Moro na Rua das Flores, número 123, e nunca tive problemas tão sérios antes. A velocidade está tão lenta que até mesmo tarefas simples, como carregar uma página da web ou enviar um e-mail, estão levando uma eternidade. Já reiniciei o roteador algumas vezes, mas o problema persiste. Estou realmente preocupado com isso, pois afeta diretamente minha capacidade de trabalhar e realizar minhas atividades diárias. Além disso, tenho uma reunião importante agendada para daqui a algumas horas, e estou preocupado se conseguirei participar sem problemas de conexão. É frustrante lidar com isso, especialmente considerando que pago por um serviço de internet que deveria ser confiável erápido. Será que vocês podem me ajudar a resolver esse problema? Fico muito grato desde já pela atenção e assistência. Estou realmente esperançoso de que possamos encontrar uma solução rápida para essa situação, pois minha produtividade e bem-estar dependem muito disso. Muito obrigado.",
+                    "dataFinder": {
+                        "cpf": "999.999.999-99",
+                        "nome": "João Silva",
+                        "uf": "RJ",
+                        "municipio": "Rio de Janeiro",
+                        "endereco": "Rua das Flores, 123"
+                    },
+                    "dataRetriever": {
+                        "material1": {
+                            "titulo": "Queda de Internet",
+                            "corpo": "Body of Material 1. Mauris nec faucibus felis, sed sodales libero. Integer ultrices est quis vestibulum malesuada.",
+                            "score": 98.9
+                        },
+                        "material2": {
+                            "titulo": "Cabo de Rede",
+                            "corpo": "Body of Material 2. Aliquam non erat in metus posuere fermentum vel a elit. Sed condimentum tempus felis vitae mattis.",
+                            "score": 75.8
+                        },
+                        "material3": {
+                            "titulo": "TCP-IP",
+                            "corpo": "Body of Material 3. Ut vel augue euismod, pharetra tortor eu, ultricies magna. Nullam efficitur lectus ac libero malesuada aliquet.",
+                            "score": 36.7
+                        }
+                    },
+                    "dataAsk": "What question do you have about the data?"
+                },
+                "metadata": {
+                    "caller_num": "+5511987654321",
+                    "timestamp": 1633021440
+                }
+            }
+        
+    ]
+}
