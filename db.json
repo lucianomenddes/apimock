@@ -35,6 +35,43 @@
                 },
                 "text_to_speech": "O nome do cliente é Maria. O cliente solicita um reboque para um carro que está atrapalhando a sua garagem"
             }
+        },
+        {
+            "id": "bbbb100d14b0-acce-4b51-a71b-e9e2b3977523",
+            "data": {
+                "dataTranscriber": "- é lá tem um carro aqui na porta da minha rua tá atrapalhando a minha garagem né eu preciso sair daqui de casa e até como vir um reboque - meu nome é maria eu moro no bairro de ipanema a rua noventa e quatro número quarenta e dois ",
+                "dataSummarizer": "O cliente solicita um reboque para um carro que está atrapalhando a sua garagem",
+                "dataRetriever": [
+                    {
+                        "text": "<p>Serviço   Descrição: O cidadão informa que estacionaram em frente ao portão de sua garagem ou em frente ao acesso de veículos ao condomínio, edifício, casa etc.   Como devemos Atender:   Verifique com o cidadão se o carro está estacionado nesse exato momento.   “Sr./Sra., o veículo está estacionado neste momento?”   Se não, informar ao cidadão que a Guarda só pode atuar no momento que ocorrer a situação.   “Para o atendimento desta solicitação, peço ao sr./sra. que retorne o contato no momento da ocorrência, pois não temos o procedimento de agendamento para visita ou atuação do guarda municipal”   Nas situações em que o cidadão informar que o evento está acontecendo naquele momento, siga com o atendimento.   Para essa solicitação será encaminhado um chamado diretamente para a Guarda Municipal (GM-Rio). Solicite ao cidadão o endereço completo da ocorrência: Rua, Bairro, número e um ponto de referência. Exemplo: Escolas, Avenida conhecida, Empresa próxima.   Observação: Algumas vezes o endereço não possui número ou o cidadão não sabe, por isso é necessário o preenchimento do ponto de referência. \"Sr./Sra. informe por gentileza o endereço da ocorrência com um ponto de referência”   Importante:   O prazo para atendimento da solicitação por parte da Guarda Municipal - RJ são de 4 horas corridas.    A Atuação da Guarda Municipal no prazo informado consiste em vistoriar o local e infracionar o veículo, em caso de constatação da irregularidade. A remoção dependerá da disponibilidade de reboque.</p>",
+                        "metadata": "<h2>Serviço_Trânsito_Fiscalização </h2>",
+                        "score": 0.0433658
+                    },
+                    {
+                        "text": "A Atuação da Guarda Municipal no prazo informado consiste em vistoriar o local e infracionar o veículo, em caso de constatação da irregularidade. A remoção dependerá da disponibilidade de reboque.   Mais detalhes sobre a solicitação:   Esse serviço funciona 24 horas por dia / 7 dias por semana.   Frases Sugeridas:   “Sr./Sra. Estamos encaminhando sua solicitação para a unidade operacional da área.  O prazo para atendimento é de até 4 horas.”",
+                        "metadado": "<h2>Serviço_Trânsito_Fiscalização de Veículo estacionado na frente</h2>",
+                        "score": 0.021165619
+                    }
+                ],
+                "dataAsk": [
+                    "Para solicitar a remoção do veículo que está atrapalhando sua garagem, por favor, informe o endereço completo da ocorrência com um ponto de referência. Assim, a Guarda Municipal poderá atuar no prazo de até 4 horas para vistoriar o local e, se necessário, remover o veículo."
+                ],
+                "dataFinder": {
+                    "nome": "João silva",
+                    "telefone": null,
+                    "cpf": null,
+                    "email": "joaosilva@gmail.com",
+                    "endereço": "Bairro de Ipanema, Rua Noventa e Quatro, Número 42",
+                    "cep": null
+                },
+                "dataClassic": {
+                    "categoria": "Informações",
+                    "tipo": "informações do direito do consumidor",
+                    "subtipo": "Informações sobre bloqueio de ligações de telemarketing"
+                },
+                "text_to_speech": "O nome do cliente é Maria. O cliente solicita um reboque para um carro que está atrapalhando a sua garagem"
+            }
         }
+ 
     ]
 }
